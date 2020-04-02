@@ -1,0 +1,6 @@
+{
+    "env":{
+        "jwtToken":"my_scret_key",
+        "pass":"qSjN4hMrzfo14KUL"
+    }
+}
